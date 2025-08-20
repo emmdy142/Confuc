@@ -1,0 +1,9 @@
+{
+  "real_time_monitoring": true,
+  "file_types": {
+    ".js": "javascript",
+    ".json": "package_json",
+    ".md": "markdown"
+  },
+  "enable_npm": true
+}
